@@ -40,6 +40,6 @@ To run the Cara E-Commerce website locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/DipeshGoud/Project-Cera.git>
 
 2. Run it using index.html.
